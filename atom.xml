@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>温柔王丽&#39;Blog</title>
+  <title>chengcan&#39;Blog</title>
   
-  <subtitle>王丽很温柔</subtitle>
+  <subtitle>chengcan&#39;Blog</subtitle>
   <link href="https://chengcan0821.github.io/atom.xml" rel="self"/>
   
   <link href="https://chengcan0821.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://chengcan0821.github.io/</id>
   
   <author>
-    <name>Chilli_Cheng</name>
+    <name>ChengCan</name>
     
   </author>
   
